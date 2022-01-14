@@ -5,5 +5,7 @@
 [resource]
 script = ExtResource( 1 )
 age = 24
-name = "John Doe"
+fullname = "John Doe"
 catchphrase = "Hello from resource"
+dialogue = [ "To be
+or not to be", "Rewrite it in Rust" ]
